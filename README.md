@@ -17,3 +17,7 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+   SS:
+   
+<img width="1560" height="990" alt="Screenshot 2026-01-02 at 17 19 10" src="https://github.com/user-attachments/assets/6e6aed53-116a-4b75-aa45-c8cd7f8969da" />
